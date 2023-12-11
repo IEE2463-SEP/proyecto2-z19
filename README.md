@@ -2,7 +2,7 @@
 
 A continuación, dejamos dos enlaces:
 
-    1. Link a video en YouTube del proyecto: [Video YouTube](https://youtu.be/2YREKfE4-dU)
+    1. Link a video en YouTube del proyecto: (Video YouTube)[https://youtu.be/2YREKfE4-dU]
 
     2. Link al OneDrive con todos los archivos (video, informe y archivos de Vivado y Vitis): [OneDrive](https://uccl0-my.sharepoint.com/:f:/g/personal/carojas28_uc_cl/Eme8MW3IZWZAhLMf3cZN4OYB7LlOOw7-cQFye7TkfTGS_g?e=0O8fen)
 
